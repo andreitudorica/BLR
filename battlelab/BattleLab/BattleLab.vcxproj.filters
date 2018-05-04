@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="BattleLab.ino" />
+    <None Include="MotorTest.ino" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.BattleLab.vsarduino.h">
